@@ -1,8 +1,4 @@
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
-
-::github{repo="matsuzaka-yuki/Mizuki"}
-
 # 观颐 · About
 
 写生活，写技术，也写给未来的自己。
@@ -40,4 +36,3 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 它只是我在互联网的第二个家，一个可以随意坐下、随意写点什么的地方。
 
 欢迎你来坐坐。
-⭐ 你可以在哪里修改？
